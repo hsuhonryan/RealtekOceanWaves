@@ -1,4 +1,4 @@
-# RealtekOceanWaves Wi-Fi 波形產生器
+# RealtekOceanWaves
 
 以 16-QAM + OFDM 為核心，把輸入的數字轉成 Wi-Fi 基頻波形與射頻輸出，並即時動態呈現。單一 HTML 檔，不需安裝任何套件、不連外部資源，可直接以瀏覽器開啟或用 GitHub Pages 發布。
 
